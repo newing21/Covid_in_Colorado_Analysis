@@ -1,0 +1,2 @@
+# Covid_in_Colorado_Analysis
+The coronavirus outbreak, first identified by the Wuhan Municipal Health Commission in December of 2019, has since extended to every corner of the globe, killing more than 1.6 million and sickening more than 71 million in a matter of months [2].  According to CNN’s live coronavirus tracking dashboard, the United States alone has reported over 16 million confirmed cases, earning condemnation as a global hotspot.  
